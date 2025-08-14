@@ -2,7 +2,7 @@
 
 ## 🌱 What I'm Working On
 
-I am currently building tools that bring **LLMs** into real-world workflows — things like semantic search, browser extensions, and lightweight RAG systems that enhance productivity and learning.
+I am currently building tools that bring **LLMs** into real-world workflows, things like semantic search, browser extensions, and lightweight RAG systems that enhance productivity and learning.
 
 I'm also deeply interested in **Reinforcement Learning (RL)** and its applications in decision-making, agents, and long-term planning. I am researching and publishing in this space and trying to build a stronger foundation for contributing to open problems in RL and AI research.
 
