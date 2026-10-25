@@ -1,24 +1,28 @@
 # 👋 Hi, I'm Benson
 
-## 🌱 What I'm Working On
+## 💻 What I'm Working On
 
-I am currently building tools that bring **LLMs** into real-world workflows, things like semantic search, browser extensions, and lightweight RAG systems that enhance productivity and learning.
+I'm a Computer Science and Mathematics student at Tufts University with a strong interest in **backend engineering, infrastructure, and low-level systems programming**.
 
-I'm also deeply interested in **Reinforcement Learning (RL)** and its applications in decision-making, agents, and long-term planning. I am researching and publishing in this space and trying to build a stronger foundation for contributing to open problems in RL and AI research.
+I'm particularly interested in building **high-performance, scalable, and reliable systems**, with a focus on performance optimization, concurrency, and efficient resource management. I enjoy understanding how software works under the hood and finding ways to make systems faster and more efficient.
+
+I'm also interested in software that interacts with real-world systems, from distributed infrastructure to robotics and embedded applications.
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** TypeScript, Python, SQL, C, C++  
-- **Frontend:** React, TailwindCSS, NextJs  
-- **Backend:** Node.js, Express  
-- **Other:** Git, VSCode, Spark, Hadoop, 
+- **Languages:** C++, C, Python, TypeScript, SQL
+- **Backend:** Node.js, Express, PostgreSQL, REST APIs
+- **Infrastructure & DevOps:** Docker, Kubernetes, Helm, Jenkins, Git
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Other:** Linux, Grafana, GitHub Actions
 
 ## 🔍 Interests
 
-- Reinforcement Learning & decision-making systems  
-- LLMs + RAG search 
-- Human-AI collaboration tools  
-- Scalable knowledge retrieval & summarization
+- **Low-Level Systems & Performance Optimization**
+- **Backend Engineering & Distributed Systems**
+- **Concurrency, Multithreading & Memory Management**
+- **Infrastructure, Reliability & Developer Tooling**
+- **Robotics & Software-Hardware Integration**
 
 ## 📫 Get in Touch
 
